@@ -16,3 +16,5 @@ This repository contains all of the examples and exercises for my JavaScript tes
 You can find the full course at:
 
 https://codewithmosh.com
+
+Tutorial: https://www.youtube.com/watch?v=zuKbR4Q428o&t=322s&ab_channel=ProgrammingwithMosh
